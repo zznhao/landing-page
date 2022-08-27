@@ -154,3 +154,52 @@ a {
 
 
 /* quote quote quote*/
+
+/* call to action */
+
+.call-to-action-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action-container {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    width:800px;
+    margin: 70px;
+    background-color: #df2241;
+    padding: 50px 75px;
+    border-radius: 10px;
+}
+
+.call-to-action-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.call-to-action-heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.call-to-action-info {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.call-to-action-button {
+    background-color: #df2241;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 35px;
+}
+
+/* call to action */
