@@ -203,3 +203,21 @@ a {
 }
 
 /* call to action */
+
+/* footer footer footer*/
+
+.footer-container {
+    background-color: #6c645c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color:#d3cbbb;
+    font-size: 18px;
+    margin: 30px;
+}
+
+/* footer footer footer*/
